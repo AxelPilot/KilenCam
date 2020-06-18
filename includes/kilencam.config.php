@@ -10,7 +10,7 @@
 // Modify the variable $error_email to contain the email address where you
 // want runtime error messages to be sent.
 
-$error_email = "a-smidt@online.no";
+$error_email = "";
 
 // ************************************************************************
 // Modify the variable $image_relative_path to contain the relative path to
